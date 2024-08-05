@@ -6,13 +6,13 @@ import { extractQueryParams } from "./utils/extract-query-params.js";
 
 // Query Parameters: URL Statefull => Filtros, paginacao, nao-obrigatorios
 // Route Paramters: Identificacao de recursos
-// Request Body: Envio de informacoes de um formulario (HTTPs
+// Request Body: Envio de informacoes de um formulario (HTTPs)
 
-// http://locvalhost:3333/users?userId:1&name=Teste
+// http://localhost:3333/users?userId:1&name=Teste
 
-// GET http://locvalhost:3333/users/1
-// DELETE http://locvalhost:3333/users/1
-// POST http://locvalhost:3333/users
+// GET http://localhost:3333/users/1
+// DELETE http://localhost:3333/users/1
+// POST http://localhost:3333/users
 
 // Edicao e remocao
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "keywords": [],
-  "authos": "",
+  "author": "",
   "scripts": {
     "dev": "node --watch src/server.js"
   }
